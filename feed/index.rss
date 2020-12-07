@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>O&#039;pays</title>
+	<atom:link href="https://www.opays.fr/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.opays.fr</link>
+	<description>Restaurant saveur des caraïbes à Paris (19eme arrondissement)</description>
+	<lastBuildDate>Sun, 02 Aug 2020 12:18:18 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.3.6</generator>
+
+<image>
+	<url>https://www.opays.fr/wp-content/uploads/2018/09/LOGO-100x100.jpg</url>
+	<title>O&#039;pays</title>
+	<link>https://www.opays.fr</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">167911376</site></channel>
+</rss>
